@@ -61,7 +61,7 @@ int main()
         }
         else
         {
-            printf("Wrong Input! Please enter the correct inut.\n");
+            printf("Wrong Input! Please enter the correct input.\n");
         }
     }
 
@@ -104,7 +104,7 @@ int main()
         }
         else
         {
-            printf("Wrong Input! Please enter the correct inut.\n");
+            printf("Wrong Input! Please enter the correct input.\n");
         }
     }
     else if (category == 'M')
@@ -130,7 +130,7 @@ int main()
         }
         else
         {
-            printf("Wrong Input! Please enter the correct inut.\n");
+            printf("Wrong Input! Please enter the correct input.\n");
         }
     }
     else if (category == 'L')
@@ -172,11 +172,11 @@ int main()
         }
         else
         {
-            printf("Wrong Input! Please enter the correct inut.\n");
+            printf("Wrong Input! Please enter the correct input.\n");
         }
     }
     else {
-                    printf("Wrong Input! Please enter the correct inut.\n");
+                    printf("Wrong Input! Please enter the correct input.\n");
 
     }
     
